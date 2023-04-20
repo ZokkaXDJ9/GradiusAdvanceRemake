@@ -1,0 +1,475 @@
+fileFormatVersion: 2
+guid: 2d5a4bb8f1cc6c54c818b5802a7aa7b8
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Terra Core_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 64
+        width: 109
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a71ef1f8125fcc6479ee0aa803dba5bb
+      internalID: -965485488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terra Core_1
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 124
+        width: 49
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 019c9e921c3c76f4491b8cdb6af8600b
+      internalID: -747295981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terra Core_2
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 124
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59fc384deede2ab458f0277e439b5474
+      internalID: 1475734346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terra Core_3
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 124
+        width: 51
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 088c8ede42f000d45a19503d218dad91
+      internalID: 2023129007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terra Core_4
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 64
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be91927931ad0f4da3a76094897a46c
+      internalID: 939118838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terra Core_5
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 64
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9739b3a65d18884f80d52ac36d76ccc
+      internalID: 1503495967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terra Core_6
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 64
+        width: 57
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1150e39b8ac4e944494623d81c37fb10
+      internalID: 1772225888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terra Core_7
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 43
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 856a7cc586ebaad48b65e5fd39e82619
+      internalID: 656585179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terra Core_8
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 43
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688a6debf6ee3c245bafc4506f4c62d2
+      internalID: -651674162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terra Core_30
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 24
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5acec25f88c89a343bc8cdc293a1c4db
+      internalID: 197808407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terra Core_9
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 15
+        width: 32
+        height: 3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f5aabdffe27d445919333afb0e3221
+      internalID: -195215273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terra Core_10
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 14
+        width: 2
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b07b23d3222fb18489751fd5d969a266
+      internalID: -1769844992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terra Core_11
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 24
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 052b2c4a62b8a8d45b20e469756ee0c1
+      internalID: 402624856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Terra Core_18: 390579238
+      Terra Core_56: -261214494
+      Terra Core_28: 1906335507
+      Terra Core_57: -902326668
+      Terra Core_61: 1515200428
+      Terra Core_65: 1606491686
+      Terra Core_70: -2126752066
+      Terra Core_72: 1210563053
+      Terra Core_43: -1719367870
+      Terra Core_21: -443017720
+      Terra Core_71: 1689043807
+      Terra Core_39: 1031130379
+      Terra Core_24: 148319998
+      Terra Core_37: 1142561629
+      Terra Core_3: 2023129007
+      Terra Core_14: -1396565515
+      Terra Core_78: 249215069
+      Terra Core_46: 1998512772
+      Terra Core_4: 939118838
+      Terra Core_55: -1726610203
+      Terra Core_58: -159631553
+      Terra Core_25: -2024624052
+      Terra Core_36: 1172166524
+      Terra Core_68: 1233395562
+      Terra Core_63: 1701194367
+      Terra Core_10: -1769844992
+      Terra Core_12: 880252540
+      Terra Core_42: -215035388
+      Terra Core_33: -1709932679
+      Terra Core_49: -90935656
+      Terra Core_2: 1475734346
+      Terra Core_26: -1456696458
+      Terra Core_64: -1553822579
+      Terra Core_74: -1928155101
+      Terra Core_48: 2044699536
+      Terra Core_31: -1286947392
+      Terra Core_60: -184018245
+      Terra Core_66: -1005120775
+      Terra Core_52: 1490769125
+      Terra Core_54: -1061177618
+      Terra Core_73: 783251252
+      Terra Core_27: -1582228935
+      Terra Core_35: -1709850314
+      Terra Core_9: -195215273
+      Terra Core_22: -185228309
+      Terra Core_23: -1668950551
+      Terra Core_69: -325477822
+      Terra Core_7: 656585179
+      Terra Core_11: 402624856
+      Terra Core_45: -1028670124
+      Terra Core_40: -1089731057
+      Terra Core_38: -1712851941
+      Terra Core_32: -936536834
+      Terra Core_47: 386284889
+      Terra Core_1: -747295981
+      Terra Core_34: -1689317201
+      Terra Core_75: -1056474169
+      Terra Core_0: -965485488
+      Terra Core_29: 1003730001
+      Terra Core_13: 1614400227
+      Terra Core_17: -384777189
+      Terra Core_51: -132810079
+      Terra Core_16: 238409097
+      Terra Core_41: -1991268654
+      Terra Core_77: -863993597
+      Terra Core_59: 269362090
+      Terra Core_30: 197808407
+      Terra Core_67: -1850171302
+      Terra Core_8: -651674162
+      Terra Core_50: 2136951140
+      Terra Core_20: -798134253
+      Terra Core_44: 944188635
+      Terra Core_15: -2090655398
+      Terra Core_53: 1645401712
+      Terra Core_62: 1611426135
+      Terra Core_6: 1772225888
+      Terra Core_19: 512283875
+      Terra Core_5: 1503495967
+      Terra Core_76: 491894509
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
